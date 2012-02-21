@@ -7,4 +7,6 @@ Password dictionary file (dictionary.txt)
 
 USAGE:
 ===============
-python MikesSalyHashCrack.py [HASH]
+python MikesSaltyHashCracker.py [HASH]
+
+
