@@ -1,9 +1,9 @@
 #!/usr/bin/python
 #############################################################
-# Mikes Salty Hash Cracker v1.0 							#
-# Written By: Dennis Linuz <dennismald@gmial.com>			#
-# A script to crack Mike's custom MD5 hash salting 			#
-# 			***I love salty crackers!***					#
+# Mikes Salty Hash Cracker v1.0 		            #
+# Written By: Dennis Linuz <dennismald@gmial.com>	    #
+# A script to crack Mike's custom MD5 hash salting          #
+# 			***I love salty crackers!***	    #
 #############################################################
 
 import hashlib, sys
