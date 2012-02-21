@@ -1,0 +1,10 @@
+Crack Mike's special MD5 hashing.
+
+Requires:
+==============
+Python >= 2.7
+Password dictionary file (dictionary.txt)
+
+USAGE:
+===============
+python MikesSalyHashCrack.py [HASH]
